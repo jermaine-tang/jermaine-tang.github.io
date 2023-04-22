@@ -14,6 +14,7 @@ title: Test Post
 description: testing testing
 slug: test
 date: 2023-04-22T08:57:20Z
+draft: false
 <!-- image: 
 cover.jpg
 categories:
