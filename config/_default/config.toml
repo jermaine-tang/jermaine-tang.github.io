@@ -1,5 +1,5 @@
 # Change baseurl before deploy
-baseurl = "jermaine-tang.github.io"
+baseurl = "https://jermaine-tang.github.io"
 languageCode = "en-us"
 paginate = 5
 title = "Hugo Theme Stack Starter"
